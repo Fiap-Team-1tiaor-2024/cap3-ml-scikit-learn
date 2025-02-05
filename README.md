@@ -1,2 +1,4 @@
-# ml-scikit-learn-fase4
-Atividade do capítulo 3 da fase 4, onde foi implementado algoritmos de ML com a lib Scikit-learn.
+# Machine Learning com Scikit Learning em Python
+
+## Sobre o projeto
+No curso de Inteligência Artificial, desenvolvi algoritmos de Machine Learning juntamente com a library Scikit Learning.
